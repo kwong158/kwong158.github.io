@@ -1,0 +1,73 @@
+html {
+  margin: 0 auto;
+  max-width: 1024px;
+  width: 95%;
+}
+
+h1 {
+  font-size: larger;
+  font-family: sans-serif;
+}
+
+h2 {
+  font-family: sans-serif;
+}
+
+h3 {
+  font-size: x-large;
+  color: red;
+}
+
+input:invalid {
+  border: 2px dashed red;
+}
+
+input:valid {
+  border: 2px solid black;
+}
+
+.card {
+  margin-top: 25px;
+}
+
+#card-1 {
+  margin-top: 50px;
+  margin-left: 100px;
+}
+
+#card-2 {
+  margin-top: 25px;
+  margin-left: 100px;
+}
+
+#card-3 {
+  margin-top: 25px;
+  margin-left: 100px;
+}
+
+#main {
+  background-color: rgb(253, 253, 253);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+#image {
+  border-radius: 10px;
+}
+
+#img-container {
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+#choice {
+  margin-left: 10px;
+}
+
+#table-left {
+  text-align: left;
+}
+
+#table-right {
+  margin-left: 10px;
+  text-align: left;
+}
