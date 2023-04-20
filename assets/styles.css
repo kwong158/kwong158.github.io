@@ -33,17 +33,14 @@ input:valid {
 
 #card-1 {
   margin-top: 50px;
-  margin-left: 100px;
 }
 
 #card-2 {
   margin-top: 25px;
-  margin-left: 100px;
 }
 
 #card-3 {
   margin-top: 25px;
-  margin-left: 100px;
 }
 
 #main {
@@ -79,6 +76,7 @@ table {
 }
 th,
 td {
+  font-size: 15px;
   text-align: left;
   padding: 5px;
 }
