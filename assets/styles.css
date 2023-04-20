@@ -1,4 +1,5 @@
 html {
+  display: fix;
   margin: 0 auto;
   max-width: 1024px;
   width: 95%;
@@ -79,5 +80,5 @@ table {
 th,
 td {
   text-align: left;
-  padding: 8px;
+  padding: 5px;
 }
